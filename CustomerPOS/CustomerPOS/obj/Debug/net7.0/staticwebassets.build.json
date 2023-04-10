@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vIshcvTXVWYaePm0zg3eWszt6C9i/cegiQ7wmDUKws0=",
+  "Source": "CustomerPOS",
+  "BasePath": "_content/CustomerPOS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
